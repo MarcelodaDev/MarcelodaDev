@@ -1,51 +1,54 @@
-# ¡Hola! Soy Marcelo 👋 
+# Hi! I'm Marcelo 👋 
 
-### 🚀 Estudiante de Ingeniería en Software @ ESPOCH | Full Stack & AI Researcher in progress
+### 🚀 Software Engineering Student @ ESPOCH | Full Stack & AI Researcher in progress
 
-Llevo toda mi vida pegado a la informática. Mi pasión es la tecnología y su avance exponencial. Actualmente, enfoco mi energía en la **Investigación de IA** y el desarrollo de **automatizaciones** inteligentes que resuelven problemas reales del día a día.
+I've been immersed in computing for as long as I can remember. My true passion lies in technology and its exponential growth. Currently, I focus my energy on **AI Research** and developing **intelligent automation** to solve real-world, everyday problems.
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+## 🛠️ Tech Stack
 
-- **Lenguajes:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **Frontend & Backend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-- **IA & Automatización:** Implementación de LLMs, Web Scraping avanzado y optimización de procesos.
+- **AI & Automation:** LLM Implementation, advanced Web Scraping, and process optimization.
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Featured Projects
 
-### 🤖 [Moodle Task & Forum Solver con AI](https://github.com/MarcelodaDev/Moodle-ai-solver)
-Mi proyecto actual de automatización estrella. Una herramienta que integra IA para resolver y gestionar tareas/foros dentro de la plataforma Moodle, optimizando el tiempo académico.
+### 🤖 [Moodle AI Task & Forum Solver](https://github.com/MarcelodaDev/Moodle-ai-solver)
+My flagship automation project. A tool that integrates AI to manage and solve tasks/forums within the Moodle platform, optimizing academic workflow.
 
-### 🏥 Web para Asociación Médica
-Actualmente liderando el desarrollo del frontend y backend para una plataforma profesional médica, aplicando estándares de UX/UI y gestión de datos.
+### 🏥 Medical Association Web Platform
+Currently leading the Full Stack development for a professional medical platform, implementing high UX/UI standards and efficient data management.
 
 ### 📊 Lactogestión
-Uno de mis proyectos más importantes y donde más experiencia técnica adquirí, enfocado en la gestión eficiente de procesos (¡puedes preguntarme sobre este!).
+One of my most significant projects where I gained deep technical expertise in process management and system architecture.
 
 ---
 
-## 🌟 Sobre mí
+## 🌟 About Me
 
-- 🔭 **Investigación:** Explorando constantemente nuevos papers de IA y cómo aplicarlos en herramientas útiles.
-- ⚙️ **Automatizador:** Si una tarea se puede hacer dos veces, se puede automatizar. Llevo años perfeccionando este arte.
-- 🎯 **Metas:** Seguir creciendo como desarrollador Full Stack mientras profundizo en el campo de la Inteligencia Artificial.
-- ♟️ **Hobbies:** Entusiasta del ajedrez, el fitness y los autos de alto rendimiento.
+- 🔭 **Researcher:** Constantly exploring new AI papers and finding ways to turn research into practical tools.
+- ⚙️ **Automation Geek:** My philosophy: "If a task has to be done twice, it should be automated." I've been perfecting this craft for years.
+- 🎯 **Goals:** To keep growing as a Full Stack developer while specializing in the field of Artificial Intelligence.
+- ♟️ **Interests:** Chess enthusiast, fitness, and high-performance cars.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
-![Mis Estadísticas de GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=MarcelodaDev&show_icons=true&theme=tokyonight)
-## 📊 Mi Arsenal Tecnológico
+![Marcelo's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MarcelodaDev&show_icons=true&theme=tokyonight)
 
-| Categoría | Herramientas |
+## ⚔️ Technical Arsenal
+
+| Category | Tools |
 | :--- | :--- |
-| **IA & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **AI & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
 
-📬 **¿Cómo contactarme?**
-https://www.linkedin.com/in/marcelo-orozco-26b188390
+---
+
+📬 **Let's Connect!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-orozco-26b188390)
