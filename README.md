@@ -38,10 +38,10 @@ Uno de mis proyectos más importantes y donde más experiencia técnica adquirí
 
 ## 📊 Estadísticas de GitHub
 
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MarcelodaDev&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelodaDev&layout=compact&theme=tokyonight)
+![Mis Estadísticas de GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=MarcelodaDev&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api?username=MarcelodaDev)](https://github.com/SrGobi/github-readme-stats))
 
 ---
 
 📬 **¿Cómo contactarme?**
-(https://www.linkedin.com/in/marcelo-orozco-26b188390)
+https://www.linkedin.com/in/marcelo-orozco-26b188390
